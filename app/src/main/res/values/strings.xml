@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Linear_Layout</string>
+    <string name="Фамилия">Фамилия</string>
+    <string name="Имя">Имя</string>
+    <string name="Отчество">Отчество</string>
+    <string name="Год">Год</string>
+    <string name="Город">Город</string>
+    <string name="Школа">Школа</string>
+    <string name="Опыт_программирования">Опыт программирования</string>
+    <string name="Знание_языков_программирования">Знание языков программирования</string>
+</resources>
